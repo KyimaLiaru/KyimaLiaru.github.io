@@ -1,4 +1,4 @@
-# KyimaLiaru.github.io
+# Software Developer 
 
 ## Summary
 Hardworking undergraduate student with demonstrated commitment to problem-solving and creativity. A reliable team member with a possitive communication style and the potential to manage a team as a leader. An active learner pursuing new opportunities and experiences with a motivated attitude.
