@@ -9,10 +9,14 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
 
 ## Work Experience
 ### Internship at SSNC
-- Developed both front- and back-end of a 
+- Developed both front- and back-end of a order management system for a restaurant.
 - Ported an outdated program to the styles corresponding to the RnD department.
-- Participated in developing both front- and back-end of security management web service used by various IT businesses.
-###
+- Participated in developing both front- and back-end of security management web service used by various IT businesses, using Java, Html, Javascript, and SQL.
+
+### InBody Manual Translation into 24 Different Languages using AI Machine Translation
+- Preprocessed translation data for training an AI model
+- Fine-tuned a model trained with translation data for one-to-one translation
+- Configured the model to perform one-to-many and many-to-one translation tasks
 
 ## Skills
 ### Language
@@ -22,4 +26,7 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
 ### Programming Language
 - Java
 - Javascript
-- PostgreSQL
+- HTML/CSS
+- SQL
+- C
+- Python
