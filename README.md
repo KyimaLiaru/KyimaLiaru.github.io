@@ -40,13 +40,9 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
 As a newcomer to the society, facing real-life problems and handling new languages and techniques are always challenges of getting used to. I experiment with any possible methods I can think of to solve the problems I face, but when nothing seem to work, I often communicate with open mind to other people, even to those working in different fields, as each people has different approaches to the problem. Combining unique ideas sometimes provide me an efficient solution, which could be used again for solving any challenges in the future. I am looking forward to learn various perspectives to approaching a problem as a software developer.
 
 ## Skills
-| Language  | Programming Language  |
-|-----------|-----------------------|
-| Korean    | Java                  |
-| English   | JavaScript            |
-|           | HTML/CSS              |
-|           | SQL                   |
-|           | Python                |
+### Language
+- Korean
+- English
 
 ### Programming Language
 - Java
