@@ -1,15 +1,25 @@
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  table, td, th {
-    border: none;
-  }
-  blockquote {
-    border-left: none;
-    padding-left: 10px;
-  }
-</style>
+# 소프트웨어 개발자
+## 요약
+문제 해결과 창의성을 가지고 긍정적인 커뮤니케이션 스타일과 팀을 이끌 수 있는 잠재력을 가진 신뢰할 수 있는 구성원으로서, 새로운 기회와 경험을 적극적으로 탐색하며 함께 발전해 나가고자 하는 동기를 가지고 배워나가겠습니다.
+
+## 학력
+- 홍콩이공대 컴퓨팅학과 (2025년 5월 졸업 예정)
+- 서울드와이트외국인학교 IB과정 (2017년 8월 ~ 2019년 6월)
+
+## 경력
+### 에스에스앤씨(주) 인턴십
+1. 식당 주문 관리 시스템 개발 (개인 인턴 프로젝트)
+2. 오래된 소프트웨어를 RnD 부서의 스타일에 맞게 Kotlin에서 Java로 포팅 (3인 인턴 팀의 리더)
+3. 보안 관리 웹서비스 개발에 참여
+   - 로그인 시 간소화된 OTP 인증 메일 발송 및 OTP 확인 기능 구현
+   - 사용자 설정 로딩 및 수정 기능 구현
+   - DB에서 필터 검색 후 웹에 표시 및 엑셀 파일로 검색 결과 다운로드
+   - 파일 업로드 및 업로드된 파일 삭제 기능 구현
+
+### AI 부트캠프
+4. 인바디 사용자 설명서 24개 언어 AI 번역 프로젝트
+
+
 
 # Software Developer 
 
@@ -31,8 +41,8 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
   - Downloading search results as excel file
   - Uploading and deleting uploaded file(s)
 
-### Group Project in a Programming Training Course
-5. InBody User Manual Translation into 24 Different Languages using AI Machine Translation
+### Group Project in AI Programming Training Course
+4. InBody User Manual Translation into 24 Different Languages using AI Machine Translation
   - Preprocessed translation data for training an AI model
   - Fine-tuned a model trained with translation data for one-to-one translation
   - Configured the model to perform one-to-many and many-to-one translation tasks
