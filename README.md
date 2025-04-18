@@ -10,7 +10,7 @@
 ### 에스에스앤씨(주) 인턴십
 1. 식당 주문 관리 시스템 개발 (개인 인턴 프로젝트)
 2. 오래된 소프트웨어를 RnD 부서의 스타일에 맞게 Kotlin에서 Java로 포팅 (3인 인턴 팀의 리더)
-3. 보안 관리 웹서비스 개발에 참여
+3. Spring Framework 기반의 보안 관리 웹서비스 개발에 참여
    - 로그인 시 간소화된 OTP 인증 메일 발송 및 OTP 확인 기능 구현
    - 사용자 설정 로딩 및 수정 기능 구현
    - DB에서 필터 검색 후 웹에 표시 및 엑셀 파일로 검색 결과 다운로드
@@ -49,7 +49,7 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
 ### Internship at SSNC
 1. Order management system for a restaurant (Individual Intern Project)
 2. Ported an old software to the styles corresponding to the RnD department, from Kotlin to Java (Leader of a 3-person team)
-3. Participated in developing both front- and back-end of security management web service, using Spring Frameworks, Java, Html, Javascript, SQL, etc.
+3. Participated in developing both front- and back-end of security management web service based on Spring Frameworks
    - Sending simplified OTP notification emails and checking OTP upon login
    - Loading and editting the user settings
    - Searching filtered entries from DB
