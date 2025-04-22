@@ -1,4 +1,4 @@
-
+<!--
 # 소프트웨어 개발자
 ## 요약
 문제 해결과 창의성을 가지고 긍정적인 커뮤니케이션 스타일과 팀을 이끌 수 있는 잠재력을 가진 신뢰할 수 있는 구성원으로서, 새로운 기회와 경험을 적극적으로 탐색하며 함께 발전해 나가고자 하는 동기를 가지고 배워나가겠습니다.
@@ -36,8 +36,7 @@
 - HTML
 - SQL
 - Python
-
-<!--
+-->
 # Software Developer 
 
 ## Summary
@@ -48,6 +47,7 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
 - Ininternational Baccalaureate at Dwight School Seoul <br> (Aug 2017 - June 2019)
 
 ## Work Experience
+<!--
 ### Internship at SSNC
 1. Order management system for a restaurant (Individual Intern Project)
 2. Ported an old software to the styles corresponding to the RnD department, from Kotlin to Java (Leader of a 3-person team)
@@ -57,9 +57,10 @@ Hardworking undergraduate student with demonstrated commitment to problem-solvin
    - Searching filtered entries from DB
    - Downloading search results as excel file
    - Uploading and deleting uploaded file(s)
+   -->
 
 ### Group Project in AI Programming Training Course
-4. InBody User Manual Translation into 24 Different Languages using AI
+- InBody User Manual Translation into 24 Different Languages using AI
    - Preprocessed translation data for training an AI model
    - Fine-tuned a model for one-to-one translation
    - Configured the model to perform one-to-many and many-to-one translation tasks
@@ -77,4 +78,3 @@ As a newcomer to the society, facing real-life problems and handling new languag
 - HTML
 - SQL
 - Python
--->
